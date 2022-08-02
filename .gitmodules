@@ -1,6 +1,6 @@
 [submodule "ui"]
 	path = ui
-	url = https://github.com/temporalio/ui
+	url = https://github.com/abserari/ui
 [submodule "proto/dependencies/api"]
 	path = proto/dependencies/api
 	url = https://github.com/temporalio/api
